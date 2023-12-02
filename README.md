@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @gwlsy
+- 👋 Hi, I’m @darkyolks
 - 👀 I’m interested in Information and Network Security
 - 🌱 I’m currently studying for the PNPT from TCM Security
-- 💞️ I’m looking to collaborate on any beginner friendly projects!
 
 <!---
 gwlsy/gwlsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
